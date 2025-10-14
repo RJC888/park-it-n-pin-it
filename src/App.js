@@ -12,7 +12,7 @@ const firebaseConfig = {
   projectId: "park-it-pin-it-ad3f8",
   storageBucket: "park-it-pin-it-ad3f8.firebasestorage.app",
   messagingSenderId: "394346806283",
-  appId: "1:394346806283:web:0e03b53cdea73a11185b0e"
+  appId: "1:394346806283:web:ab2738e3b91fade1185b0e"
 };
 
 // Google Maps API Key
